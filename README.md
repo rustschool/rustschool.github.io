@@ -1,0 +1,2 @@
+# goschool.github.io
+.

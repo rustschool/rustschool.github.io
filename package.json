@@ -1,0 +1,24 @@
+{
+  "name": "goschool.io",
+  "version": "1.0.0",
+  "description": "GoSchool.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/golangschool/goschool.io.git"
+  },
+  "keywords": [
+    "goschool",
+    "golang",
+    "go"
+  ],
+  "author": "Arif Cakiroglu <cakirogluarif@gmail.com> (http://www.arifcakiroglu.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/golangschool/goschool.io/issues"
+  },
+  "homepage": "https://github.com/golangschool/goschool.io#readme"
+}
